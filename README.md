@@ -61,7 +61,7 @@ In this section, we will create some data visualization to present the final res
 
 1. Create a 3D-Scatter using Plotly Express to plot the clusters using the `clustered_df` DataFrame. 
 
-![Crypto clusters(Resources/crypto_clusters.PNG)
+![Crypto clusters](Resources/crypto_clusters.PNG)
 
 2. Using `hvplot.table` to create a data table with all the current tradable cryptocurrencies. 
 
